@@ -15,7 +15,7 @@ const TYSON_VIDEOS = [
         "title": "1994 Ford F-150 | POV Night Drive | BeamNG.Drive #beamngdrive #beamngdrivemods #fordtrucks",
         "duration": "HD",
         "views": "55 views",
-        "date": "14 hours ago",
+        "date": "August 19, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -24,7 +24,7 @@ const TYSON_VIDEOS = [
         "title": "Introducing... RPM World",
         "duration": "HD",
         "views": "TYSON and RPM World by TYSON",
-        "date": "Recent",
+        "date": "August 10, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -33,7 +33,7 @@ const TYSON_VIDEOS = [
         "title": "2022 Ford F-350 Limited | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods #fordtrucks [GAME]",
         "duration": "HD",
         "views": "120 views",
-        "date": "1 month ago",
+        "date": "July 03, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -42,7 +42,7 @@ const TYSON_VIDEOS = [
         "title": "More Forza Motorsport content coming to TYSON",
         "duration": "HD",
         "views": "46 views",
-        "date": "2 months ago",
+        "date": "June 03, 2026",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -51,7 +51,7 @@ const TYSON_VIDEOS = [
         "title": "TYSON Racing",
         "duration": "HD",
         "views": "59 views",
-        "date": "2 months ago",
+        "date": "May 31, 2026",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -60,7 +60,7 @@ const TYSON_VIDEOS = [
         "title": "2019 Ford F-150 Limited | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods #fordtrucks",
         "duration": "HD",
         "views": "498 views",
-        "date": "2 months ago",
+        "date": "May 23, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -69,7 +69,7 @@ const TYSON_VIDEOS = [
         "title": "2026 Subaru Outback Touring XT POV Start Up + Walkaround | Subaru Really refined this Wagon-ish SUV!",
         "duration": "HD",
         "views": "142 views",
-        "date": "3 months ago",
+        "date": "May 19, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -78,7 +78,7 @@ const TYSON_VIDEOS = [
         "title": "2026 Ford F-150 XLT | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods #fordtrucks",
         "duration": "HD",
         "views": "921 views",
-        "date": "3 months ago",
+        "date": "May 17, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -87,7 +87,7 @@ const TYSON_VIDEOS = [
         "title": "A Subtle Evolution.",
         "duration": "HD",
         "views": "21 views",
-        "date": "3 months ago",
+        "date": "April 23, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -96,7 +96,7 @@ const TYSON_VIDEOS = [
         "title": "4.23.2026",
         "duration": "HD",
         "views": "103 views",
-        "date": "3 months ago",
+        "date": "April 21, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -105,7 +105,7 @@ const TYSON_VIDEOS = [
         "title": "[VR] 2022 G20 BMW M340i | Virtual Reality POV Drive | #beamngdrive #automotive",
         "duration": "HD",
         "views": "96 views",
-        "date": "4 months ago",
+        "date": "April 16, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -114,7 +114,7 @@ const TYSON_VIDEOS = [
         "title": "2013 Honda Accord | POV Drive | #beamngdrive #automotive",
         "duration": "HD",
         "views": "265 views",
-        "date": "4 months ago",
+        "date": "April 08, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -123,7 +123,7 @@ const TYSON_VIDEOS = [
         "title": "2012 Porsche 911 GT3RS | POV Drive | #beamngdrive #automotive",
         "duration": "HD",
         "views": "44 views",
-        "date": "4 months ago",
+        "date": "April 04, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -132,7 +132,7 @@ const TYSON_VIDEOS = [
         "title": "2018 Dodge Durango SRT 392 POV | POV Drive | #beamngdrive #automotive",
         "duration": "HD",
         "views": "95 views",
-        "date": "4 months ago",
+        "date": "March 28, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -141,7 +141,7 @@ const TYSON_VIDEOS = [
         "title": "2025 Ford Mustang Shelby GT350  | POV Sunset Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "123 views",
-        "date": "5 months ago",
+        "date": "March 10, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -150,7 +150,7 @@ const TYSON_VIDEOS = [
         "title": "2025 Toyota RAV4 Plug-in Hybrid EV | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "176 views",
-        "date": "5 months ago",
+        "date": "February 27, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -159,7 +159,7 @@ const TYSON_VIDEOS = [
         "title": "424BRAYDEN by TYSON Media Group | 2026 Porsche Taycan GT",
         "duration": "HD",
         "views": "58 views",
-        "date": "5 months ago",
+        "date": "February 22, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -168,7 +168,7 @@ const TYSON_VIDEOS = [
         "title": "2022 Nissan Rogue Sport | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "276 views",
-        "date": "6 months ago",
+        "date": "February 19, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -177,7 +177,7 @@ const TYSON_VIDEOS = [
         "title": "In Loving Memory of Margot DeVita",
         "duration": "HD",
         "views": "44 views",
-        "date": "6 months ago",
+        "date": "February 16, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -186,7 +186,7 @@ const TYSON_VIDEOS = [
         "title": "11JACKSON by TYSON Racing | 2023 Porsche Cayman 718",
         "duration": "HD",
         "views": "56 views",
-        "date": "6 months ago",
+        "date": "February 10, 2026",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -195,7 +195,7 @@ const TYSON_VIDEOS = [
         "title": "1NICOLAS by TYSON Racing | 2015 Porsche Cayman 981",
         "duration": "HD",
         "views": "46 views",
-        "date": "6 months ago",
+        "date": "February 08, 2026",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -204,7 +204,7 @@ const TYSON_VIDEOS = [
         "title": "8ESTON by TYSON Racing | 2025 Porsche Cayman 718",
         "duration": "HD",
         "views": "77 views",
-        "date": "6 months ago",
+        "date": "February 07, 2026",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -213,7 +213,7 @@ const TYSON_VIDEOS = [
         "title": "The Next Chapter of TYSON",
         "duration": "HD",
         "views": "58 views",
-        "date": "6 months ago",
+        "date": "February 06, 2026",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -222,7 +222,7 @@ const TYSON_VIDEOS = [
         "title": "2022 Nissan Rogue Sport | POV Driving Impressions | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "136 views",
-        "date": "6 months ago",
+        "date": "January 28, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -231,7 +231,7 @@ const TYSON_VIDEOS = [
         "title": "2011 Audi RS6 | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "47 views",
-        "date": "6 months ago",
+        "date": "January 24, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -240,7 +240,7 @@ const TYSON_VIDEOS = [
         "title": "2018 Dodge Durango SRT 392 + Empty Race Trailer POV | Time-Lapse Road Trip | #beamngdrive",
         "duration": "HD",
         "views": "71 views",
-        "date": "7 months ago",
+        "date": "January 11, 2026",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -249,7 +249,7 @@ const TYSON_VIDEOS = [
         "title": "2024 Volkswagen Tiguan R | POV Time-Lapse Road Trip | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "88 views",
-        "date": "7 months ago",
+        "date": "December 31, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -258,7 +258,7 @@ const TYSON_VIDEOS = [
         "title": "TYSON Live! (December 5, 2025) | Forza Horizon 5 Stream Replay",
         "duration": "HD",
         "views": "76 views",
-        "date": "8 months ago",
+        "date": "December 05, 2025",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -267,7 +267,7 @@ const TYSON_VIDEOS = [
         "title": "THIS MIGHT BE THEE BEST CAR I'VE TESTED | 2024 Porsche Taycan GT POV Drive #beamngdrivemods #cars",
         "duration": "HD",
         "views": "53 views",
-        "date": "8 months ago",
+        "date": "December 01, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -276,7 +276,7 @@ const TYSON_VIDEOS = [
         "title": "TYSON Atlantis Announcement",
         "duration": "HD",
         "views": "TYSON and TYSON Atlantis",
-        "date": "Recent",
+        "date": "November 30, 2025",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -285,7 +285,7 @@ const TYSON_VIDEOS = [
         "title": "Happy Thanksgiving",
         "duration": "HD",
         "views": "12 views",
-        "date": "8 months ago",
+        "date": "November 27, 2025",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -294,7 +294,7 @@ const TYSON_VIDEOS = [
         "title": "2016 Ford F-350 Lariat Dually | POV Time-Lapse | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "59 views",
-        "date": "8 months ago",
+        "date": "November 26, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -303,7 +303,7 @@ const TYSON_VIDEOS = [
         "title": "2024 Toyota RAV4 Hybrid Woodlands Edition | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "618 views",
-        "date": "8 months ago",
+        "date": "November 25, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -312,7 +312,7 @@ const TYSON_VIDEOS = [
         "title": "2022 Porsche Mission R | POV Track Racing | Forza Motorsport #forza #forzamotorsport #porsche",
         "duration": "HD",
         "views": "32 views",
-        "date": "9 months ago",
+        "date": "November 16, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -321,7 +321,7 @@ const TYSON_VIDEOS = [
         "title": "1999 Ford F-350 Dually | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "135 views",
-        "date": "9 months ago",
+        "date": "October 20, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -330,7 +330,7 @@ const TYSON_VIDEOS = [
         "title": "My New 2024 Subaru BRZ | POV Drive | BeamNG TYSON \"My\" Series",
         "duration": "HD",
         "views": "55 views",
-        "date": "10 months ago",
+        "date": "October 08, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -339,7 +339,7 @@ const TYSON_VIDEOS = [
         "title": "2010 Audi A3 S-Line | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "121 views",
-        "date": "10 months ago",
+        "date": "October 01, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -348,7 +348,7 @@ const TYSON_VIDEOS = [
         "title": "2015 Subaru Legacy | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "50 views",
-        "date": "10 months ago",
+        "date": "September 29, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -357,7 +357,7 @@ const TYSON_VIDEOS = [
         "title": "2024 Jeep Grand Cherokee | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "95 views",
-        "date": "10 months ago",
+        "date": "September 28, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -366,7 +366,7 @@ const TYSON_VIDEOS = [
         "title": "2022 Porsche Taycan 4S | POV Time-Lapse | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "52 views",
-        "date": "10 months ago",
+        "date": "September 27, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -375,7 +375,7 @@ const TYSON_VIDEOS = [
         "title": "\ud835\udfe7 \ud835\udcb4\ud835\udc52\ud835\udcb6\ud835\udcc7\ud835\udcc8",
         "duration": "HD",
         "views": "58 views",
-        "date": "10 months ago",
+        "date": "September 26, 2025",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -384,7 +384,7 @@ const TYSON_VIDEOS = [
         "title": "2015 Ford F-350 Lariat Dually | POV Time-Lapse | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "50 views",
-        "date": "10 months ago",
+        "date": "September 20, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -393,7 +393,7 @@ const TYSON_VIDEOS = [
         "title": "2024 Toyota Grand Highlander | POV Sunset Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "134 views",
-        "date": "1 year ago",
+        "date": "July 08, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -402,7 +402,7 @@ const TYSON_VIDEOS = [
         "title": "TYSON Live! (July 6, 2025) | BeamNG.drive Driving around in a Porsche 911 GT3 RS (992) Stream Replay",
         "duration": "HD",
         "views": "87 views",
-        "date": "1 year ago",
+        "date": "July 06, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -411,7 +411,7 @@ const TYSON_VIDEOS = [
         "title": "2015 Dodge Charger R/T | POV Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "108 views",
-        "date": "1 year ago",
+        "date": "June 11, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -420,7 +420,7 @@ const TYSON_VIDEOS = [
         "title": "2014 Audi Q7 | POV Morning Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "93 views",
-        "date": "1 year ago",
+        "date": "May 28, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -429,7 +429,7 @@ const TYSON_VIDEOS = [
         "title": "2016 Infiniti QX80 | POV Morning Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "141 views",
-        "date": "1 year ago",
+        "date": "May 27, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -438,7 +438,7 @@ const TYSON_VIDEOS = [
         "title": "2024 Ford Mustang GT | POV Sunset Drive | BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "514 views",
-        "date": "1 year ago",
+        "date": "May 26, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -447,7 +447,7 @@ const TYSON_VIDEOS = [
         "title": "2020 Rolls-Royce Cullinan | POV Sunset Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "70 views",
-        "date": "1 year ago",
+        "date": "May 25, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -456,7 +456,7 @@ const TYSON_VIDEOS = [
         "title": "2025 BMW M5 G90 | POV Drive + 0-100 Statistics BeamNG.Drive #beamngdrive #beamngdrivemods",
         "duration": "HD",
         "views": "97 views",
-        "date": "1 year ago",
+        "date": "May 23, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -465,7 +465,7 @@ const TYSON_VIDEOS = [
         "title": "2014 Lexus RX350 | POV Sunset Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "481 views",
-        "date": "1 year ago",
+        "date": "May 23, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -474,7 +474,7 @@ const TYSON_VIDEOS = [
         "title": "2020 Dodge Challenger | POV Spirited Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "81 views",
-        "date": "1 year ago",
+        "date": "May 22, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -483,7 +483,7 @@ const TYSON_VIDEOS = [
         "title": "Hyundai Santa Fe | POV Sunset Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "1.6K views",
-        "date": "1 year ago",
+        "date": "May 21, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -492,7 +492,7 @@ const TYSON_VIDEOS = [
         "title": "2018 Honda Civic | POV Rainy Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "98 views",
-        "date": "1 year ago",
+        "date": "May 20, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -501,7 +501,7 @@ const TYSON_VIDEOS = [
         "title": "2017 Ford Focus RS | POV Foggy Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "53 views",
-        "date": "1 year ago",
+        "date": "May 19, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -510,7 +510,7 @@ const TYSON_VIDEOS = [
         "title": "Porsche Taycan Turbo S | POV Foggy Drive | City Car Driving #citycardriving  #citycardrivingmods",
         "duration": "HD",
         "views": "545 views",
-        "date": "1 year ago",
+        "date": "May 18, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -519,7 +519,7 @@ const TYSON_VIDEOS = [
         "title": "Subaru Levorg | POV Spirited Drive | City Car Driving #subaru #citycardriving #citycardrivingmods",
         "duration": "HD",
         "views": "178 views",
-        "date": "1 year ago",
+        "date": "May 17, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -528,7 +528,7 @@ const TYSON_VIDEOS = [
         "title": "Relaxing Night Time POV Drive | CCD Subaru WRX",
         "duration": "HD",
         "views": "115 views",
-        "date": "1 year ago",
+        "date": "May 17, 2025",
         "type": "video",
         "category": "POV Drives & Testing"
     },
@@ -537,7 +537,7 @@ const TYSON_VIDEOS = [
         "title": "This car can go MACH 30!",
         "duration": "HD",
         "views": "110 views",
-        "date": "1 year ago",
+        "date": "April 17, 2025",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -546,7 +546,7 @@ const TYSON_VIDEOS = [
         "title": "CECCS Open Bedrock Server - Coming Soon...",
         "duration": "HD",
         "views": "50 views",
-        "date": "1 year ago",
+        "date": "January 23, 2025",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -555,7 +555,7 @@ const TYSON_VIDEOS = [
         "title": "Southwest Airlines | Stormy High Windspeed Flight line landing",
         "duration": "HD",
         "views": "54 views",
-        "date": "1 year ago",
+        "date": "November 25, 2024",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -564,7 +564,7 @@ const TYSON_VIDEOS = [
         "title": "TYSON Media Group End Card New",
         "duration": "HD",
         "views": "46 views",
-        "date": "2 years ago",
+        "date": "August 02, 2024",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -573,7 +573,7 @@ const TYSON_VIDEOS = [
         "title": "Flight Line | Southwest Airlines",
         "duration": "HD",
         "views": "47 views",
-        "date": "2 years ago",
+        "date": "October 21, 2023",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -582,7 +582,7 @@ const TYSON_VIDEOS = [
         "title": "DISCORD'S SPECIAL RINGTONE!",
         "duration": "HD",
         "views": "15 views",
-        "date": "3 years ago",
+        "date": "May 26, 2023",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -591,7 +591,7 @@ const TYSON_VIDEOS = [
         "title": "Microsoft Flight Simulator | Boeing 787-10 | TYSON Media Group",
         "duration": "HD",
         "views": "45 views",
-        "date": "3 years ago",
+        "date": "May 14, 2023",
         "type": "video",
         "category": "Sim & Racing"
     },
@@ -600,7 +600,7 @@ const TYSON_VIDEOS = [
         "title": "Project T6 Trailer",
         "duration": "HD",
         "views": "76 views",
-        "date": "3 years ago",
+        "date": "October 14, 2022",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -609,7 +609,7 @@ const TYSON_VIDEOS = [
         "title": "Rest In Peace Technoblade",
         "duration": "HD",
         "views": "16 views",
-        "date": "4 years ago",
+        "date": "July 02, 2022",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -618,7 +618,7 @@ const TYSON_VIDEOS = [
         "title": "Collider Pulse",
         "duration": "HD",
         "views": "30 views",
-        "date": "4 years ago",
+        "date": "June 03, 2022",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -627,7 +627,7 @@ const TYSON_VIDEOS = [
         "title": "Greenvile start screen music",
         "duration": "HD",
         "views": "29 views",
-        "date": "5 years ago",
+        "date": "February 21, 2021",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -636,7 +636,7 @@ const TYSON_VIDEOS = [
         "title": "practicing landing on the fields mfs2020",
         "duration": "HD",
         "views": "36 views",
-        "date": "5 years ago",
+        "date": "December 25, 2020",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -645,7 +645,7 @@ const TYSON_VIDEOS = [
         "title": "Flight line roblox landing",
         "duration": "HD",
         "views": "118 views",
-        "date": "5 years ago",
+        "date": "November 08, 2020",
         "type": "video",
         "category": "Features & Releases"
     },
@@ -654,7 +654,7 @@ const TYSON_VIDEOS = [
         "title": "We are so close",
         "duration": "Short",
         "views": "139 views",
-        "date": "Channel Short",
+        "date": "July 14, 2026",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -663,7 +663,7 @@ const TYSON_VIDEOS = [
         "title": "What do you think?",
         "duration": "Short",
         "views": "39 views",
-        "date": "Channel Short",
+        "date": "June 28, 2026",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -672,7 +672,7 @@ const TYSON_VIDEOS = [
         "title": "Porsche 911 GT3RS",
         "duration": "Short",
         "views": "199 views",
-        "date": "Channel Short",
+        "date": "April 04, 2026",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -681,7 +681,7 @@ const TYSON_VIDEOS = [
         "title": "This video is way more important than you think",
         "duration": "Short",
         "views": "921 views",
-        "date": "Channel Short",
+        "date": "March 31, 2026",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -690,7 +690,7 @@ const TYSON_VIDEOS = [
         "title": "\ud835\udd4a\ud835\udd66\ud835\udd53\ud835\udd52\ud835\udd63\ud835\udd66 - \u2119\ud835\udd60\ud835\udd63\ud835\udd64\ud835\udd54\ud835\udd59\ud835\udd56",
         "duration": "Short",
         "views": "187 views",
-        "date": "Channel Short",
+        "date": "August 25, 2025",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -699,7 +699,7 @@ const TYSON_VIDEOS = [
         "title": "How to help someone better. #caring #supporting #shorts #youtubeshorts #helpothers #cars",
         "duration": "Short",
         "views": "173 views",
-        "date": "Channel Short",
+        "date": "October 27, 2024",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -708,7 +708,7 @@ const TYSON_VIDEOS = [
         "title": "Stream Deck | Disco Feature | If you ask me I think it's really cool!",
         "duration": "Short",
         "views": "223 views",
-        "date": "Channel Short",
+        "date": "November 13, 2022",
         "type": "short",
         "category": "Shorts & Teasers"
     },
@@ -717,7 +717,7 @@ const TYSON_VIDEOS = [
         "title": "Logitech G29 | Force Feedback | It's no joke!",
         "duration": "Short",
         "views": "480 views",
-        "date": "Channel Short",
+        "date": "November 13, 2022",
         "type": "short",
         "category": "Shorts & Teasers"
     }
