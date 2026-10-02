@@ -1157,8 +1157,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     checkMobileState();
-    window.addEventListener('resize', checkMobileState);
-    window.addEventListener('orientationchange', checkMobileState);
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(checkMobileState, 120);
+    });
+    window.addEventListener('orientationchange', checkMobileState, { passive: true });
 
     const mobileToggle = document.getElementById('mobile-toggle');
     if (mobileToggle && mobileNav) {
