@@ -3030,3 +3030,8 @@ code {
 .is-mobile .yt-card:hover {
     transform: none;
 }
+
+/* Remove 300ms tap delay on all interactive elements */
+a, button, input, select, textarea, [role="button"] {
+    touch-action: manipulation;
+}
