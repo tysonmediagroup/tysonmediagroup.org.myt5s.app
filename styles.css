@@ -2886,7 +2886,7 @@ code {
         -webkit-overflow-scrolling: touch !important;
     }
 
-    .yt-feed-grid { grid-template-columns: 1fr; }
+    .yt-feed-grid { grid-template-columns: repeat(2, 1fr); }
     .form-grid-2 { grid-template-columns: 1fr; }
     .footer-top { grid-template-columns: 1fr; gap: 2.5rem; }
     .footer-domain-title { font-size: 2.2rem; }
@@ -3034,4 +3034,11 @@ code {
 /* Remove 300ms tap delay on all interactive elements */
 a, button, input, select, textarea, [role="button"] {
     touch-action: manipulation;
+}
+
+@media (max-width: 500px) {
+    .yt-feed-grid { grid-template-columns: 1fr; }
+    .section-header-row { flex-direction: column; align-items: flex-start; gap: 1rem; }
+    .yt-channel-header-content { flex-direction: column; align-items: flex-start; }
+    .yt-channel-action-buttons { flex-wrap: wrap; }
 }
