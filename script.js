@@ -1007,7 +1007,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             card.innerHTML = `
                 <div class="yt-card-thumb-container">
-                    <img src="${thumbUrl}" alt="${escapeHTML(v.title)}" class="yt-card-thumb-img" loading="lazy">
+                    <img src="${thumbUrl}" alt="${escapeHTML(v.title)}" class="yt-card-thumb-img" loading="lazy" onerror="this.src='https://i.ytimg.com/vi/${v.id}/mqdefault.jpg';this.onerror=null;">
                     <span class="yt-duration-badge ${isShort ? 'badge-short' : ''}">${badgeLabel}</span>
                     <div class="yt-play-overlay-icon">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
@@ -1085,7 +1085,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             card.innerHTML = `
                 <div class="yt-card-thumb-container">
-                    <img src="${thumbUrl}" alt="${escapeHTML(v.title)}" class="yt-card-thumb-img" loading="lazy">
+                    <img src="${thumbUrl}" alt="${escapeHTML(v.title)}" class="yt-card-thumb-img" loading="lazy" onerror="this.src='https://i.ytimg.com/vi/${v.id}/mqdefault.jpg';this.onerror=null;">
                     <span class="yt-duration-badge">${badgeLabel}</span>
                     <div class="yt-play-overlay-icon">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="#ffffff"><path d="M8 5v14l11-7z"/></svg>
