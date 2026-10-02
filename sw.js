@@ -1,10 +1,10 @@
 // TYSON Media Group - High-Speed Offline Caching Service Worker
-const CACHE_NAME = 'tyson-media-group-v1';
+const CACHE_NAME = 'tyson-media-group-v2';
 const STATIC_ASSETS = [
     './',
     './index.html',
-    './styles.css?v=36',
-    './script.js?v=36',
+    './styles.css?v=48',
+    './script.js?v=48',
     './about.html',
     './videos.html',
     './articles.html',
@@ -12,6 +12,7 @@ const STATIC_ASSETS = [
     './contact.html',
     './terms.html',
     './privacy.html',
+    './email-beta-invite.html',
     './assets/LOGOSFORGEMINI/TYSONMediaGroupBanner.png',
     './assets/logoforbottomofintrotrace.png'
 ];
