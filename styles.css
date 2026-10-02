@@ -1686,7 +1686,8 @@ code {
     border: 1px solid var(--border-subtle);
     border-radius: var(--btn-radius);
     padding: 0.75rem 1.25rem;
-    width: 380px;
+    width: 100%;
+    max-width: 380px;
     transition: var(--trans-fast);
     box-shadow: var(--box-shadow-card);
 }
