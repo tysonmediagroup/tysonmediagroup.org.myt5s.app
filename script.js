@@ -1166,6 +1166,7 @@ document.addEventListener('DOMContentLoaded', () => {
             e.stopPropagation();
             const isOpen = mobileNav.classList.toggle('active');
             mobileToggle.classList.toggle('active', isOpen);
+            mobileToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
             document.body.style.overflow = isOpen ? 'hidden' : '';
         });
 
@@ -1175,6 +1176,7 @@ document.addEventListener('DOMContentLoaded', () => {
             link.addEventListener('click', () => {
                 mobileNav.classList.remove('active');
                 mobileToggle.classList.remove('active');
+                mobileToggle.setAttribute('aria-expanded', 'false');
                 document.body.style.overflow = '';
             });
         });
@@ -1184,6 +1186,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (mobileNav.classList.contains('active') && !mobileNav.contains(e.target) && !mobileToggle.contains(e.target)) {
                 mobileNav.classList.remove('active');
                 mobileToggle.classList.remove('active');
+                mobileToggle.setAttribute('aria-expanded', 'false');
                 document.body.style.overflow = '';
             }
         });
